@@ -1,5 +1,5 @@
-# Ruby-Cutting
-This is a skills assessment for RSpec posing as a skills assessment for Ruby on Rails. To get started download this list of stories to your own github repository, and give your proctor access to it so they can assess your progress.
+# Ruby::Rails::Assessment
+This is a skills assessment for RSpec posing as a skills assessment for Ruby on Rails. To get started, click on "Use this template" (which will create a repo in your github) and give your proctor access to the repo so they can assess your progress (and review PR's if desired).
 
 - Run each story in order using the test driven development model for development (First two stories excepted)
 - After you write the tests make a commit
